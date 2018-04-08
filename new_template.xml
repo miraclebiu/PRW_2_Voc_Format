@@ -1,0 +1,24 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>360VIDEO-20160818_0004.jpg</filename>
+	<source>
+		<database>VOC2007</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>p</name>
+		<id>-2</id><bndbox>
+			<xmin>548</xmin>
+			<ymin>358</ymin>
+			<xmax>581</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+	</object>
+</annotation>
